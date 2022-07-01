@@ -1,2 +1,2 @@
 # pern-stack
-simple todo using pern stack and deployed to heroku
+simple todo using pern stack
